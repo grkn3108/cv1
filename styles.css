@@ -1,0 +1,143 @@
+
+body
+{
+    margin: 0px;
+    background-color: #1C0C5B;
+}
+.title
+{
+    margin-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    background-color: black;
+    color: rgb(138, 46, 251);
+    font-family: monospace;
+    font-style: oblique;
+    font-size: x-large;
+}
+.topnav {
+    background-color: #3D2C8D;
+    overflow:hidden;
+    border-radius: 0px 0px 20px 20px;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: rgb(138, 46, 251);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #1C0C5B;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: rgb(138, 46, 251);
+    color: #3D2C8D;
+  }
+.flut
+{
+    width: 150px;
+    height: 150px;
+    border-radius:10px 10px 10px;
+    background-color: white;
+    border-style: solid;border-width: 4px;
+
+
+}
+.js
+{
+    width: 150px;height: 150px;
+    border-radius: 10px 10px 10px;
+    border-style: solid;border-width: 4px;
+}
+.html5
+{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px 10px 10px;
+    border-style: solid;border-width: 4px;
+}
+h3
+{
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    font-weight:bolder;
+}
+p
+{
+    color: white;
+    font-size: larger;
+    font-family: monospace;
+}
+.at
+{
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 40px 40px 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #3D2C8D;
+}
+hr
+{
+border-style:solid;
+border-width: 5px;
+border-color: aqua;
+width: 1200px;
+border-radius: 20px 20px ;
+}
+
+li::before{
+    content: "👨‍💻";
+}
+.left
+{
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    margin: 50px;
+    background-color: #916BBF;
+    border-radius: 10px 10px 10px;
+}
+.right
+{
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    margin-right: 50px;
+    background-color: #3D2C8D;
+    border-radius: 10px 10px 10px;
+}
+.abx
+{
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: #916BBF;
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 12px 12px 12px;
+}
+.abm
+{
+    background-color: #916BBF;
+    border-color: black;
+    border-radius: 10px 10px 10px;
+    border-style: solid;
+}
+.icons
+{
+    position: relative;
+    left: 950px;
+}
+
